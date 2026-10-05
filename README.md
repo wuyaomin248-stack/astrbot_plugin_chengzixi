@@ -1,0 +1,2 @@
+# astrbot_plugin_chengzixi
+AstrBot 橙子汐工程能力升级进阶插件：双轨算力路由、SillyTavern上下文编排与自动化运维闭环
