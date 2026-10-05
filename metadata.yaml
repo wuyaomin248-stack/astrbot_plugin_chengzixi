@@ -1,0 +1,8 @@
+name: astrbot_plugin_chengzixi
+display_name: 橙子汐工程进化核心
+desc: 橙子汐双轨算力路由、SillyTavern上下文编排与自动化运维闭环插件
+version: 0.1.0
+author: 日海 & 橙子汐
+repo: "https://github.com/wuyaomin248-stack/astrbot_plugin_chengzixi"
+astrbot_version: ">=4.0.0"
+support_platforms: [aiocqhttp, qq_official]
